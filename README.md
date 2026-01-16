@@ -13,8 +13,8 @@
                         <ul> 
                              <li> <a href=" # "> About us </a> </li>
                                   <li> <a href=" # "> Our Menu </a> </li>
-                                       <li> <a href=" # "> Store Hours </a> </li> 
-                                            <li> <a href=" # "> Contact us </a> </li>
+                                       <li> <a href="Hours.html"> Store Hours </a> </li> 
+                                            <li> <a href="Contact.html"> Contact us </a> </li>
                                               </ul>  
                                                 <img src="image.png" alt="Taco belly">
                                                   <div> Tacos and Drinks </div>
